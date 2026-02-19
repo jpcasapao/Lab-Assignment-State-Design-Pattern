@@ -1,4 +1,4 @@
-# Lab-Assignment-State-Pattern
+# Lab-Assignment-State-Design-Pattern
 
 
 Problem:
