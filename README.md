@@ -43,3 +43,5 @@ Requirements:
     - Introduce a reference to the current VendingMachineState object.
     - Delegate actions like selectItem, insertCoin, dispenseItem, and setOutOfOrder to the current state object through its corresponding methods.
 
+<img width="1796" height="914" alt="image" src="https://github.com/user-attachments/assets/3a799532-4627-40f5-aacd-3786ed96768d" />
+<img width="1796" height="914" alt="image" src="https://github.com/user-attachments/assets/3a799532-4627-40f5-aacd-3786ed96768d" />
